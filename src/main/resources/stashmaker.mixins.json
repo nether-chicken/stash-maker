@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "io.neocities.robotchicken.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+	],
+	"client": [
+		"ClientConnectionMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
